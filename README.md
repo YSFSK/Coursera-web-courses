@@ -1,2 +1,2 @@
 # Coursera-web-courses
-Assignments for the course
+Assignments and lecture files for the course
