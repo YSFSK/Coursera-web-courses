@@ -1,0 +1,80 @@
+* {
+    font-family: monospace,'Courier New', Courier;
+    padding: 0;
+}
+#brand-name{
+    font-size: 1.5em;
+    float: left;
+    
+}
+
+
+.navbar-item{
+    font-size: 150%;
+    background-color: rgb(68, 127, 150);
+    opacity: 0.9;
+    border: 1px solid black;
+    border-collapse: collapse; 
+    margin: 1px 0px;
+    color: black;
+}
+.navbar-item:hover{
+    background-color: rgb(157, 177, 185);
+}
+#header-nav{
+    border: 0;
+    border-radius: 0;
+}
+#nav-list{
+    background-color: rgb(68, 127, 150);
+}
+h1{
+    margin: 5%;
+    font-size: 350%;
+    color: black;
+    font-weight: bold;
+    color:rgb(50, 95, 112);
+}
+
+.menu-section{
+    font-size: 120%;
+    background-color: rgb(68, 127, 150);
+    color: black;
+    margin-bottom: 100px;
+    opacity: 0.9;
+    border-radius: 1%;
+    width: 90%;
+    margin: auto;
+}
+.section-text{
+    padding: 3%;
+}
+.section{
+    margin-bottom: 100px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.section-title{
+    font-size: 170%;
+    padding: 3%;
+    font-weight: bold;
+}
+
+.col-xs-12 .menu-section{
+    width: 100%;
+}
+
+.menu-section > div >  a{
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.brand-cont{
+    min-height: 60px;
+    border: 2px solid black;
+}
